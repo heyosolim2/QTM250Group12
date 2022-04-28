@@ -16,3 +16,5 @@ should be the easiest and the scanned should be in the middle. This means the ro
 percentage should fall as the API moves from Webpage to Scanned to Handwriting. Through
 this testing, we should be able to determine the efficacy of the GCP’s Machine Learning API for
 character recognition and how it can work with actual handwriting.
+
+Link to our Google Spreadsheets: https://docs.google.com/spreadsheets/d/1lHN2bpZval_roapo8f_UD4PWW-C-jWE93kyo7JzVG8Q/edit?usp=sharing
